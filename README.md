@@ -1,6 +1,6 @@
 ## **Sobre mim** 🔍
 
-<p>Olá pessoal! Tenho 21 anos, sou de Blumenau/SC - Brasil <p>
+<p>Olá pessoal! Tenho 22 anos, sou de Blumenau/SC - Brasil <p>
   
 <p> Atualmente, sou desenvolvedora full-stack júnior recém formada em análise e desenvolvimento de sistemas. Já atuei com manutenção, testes, documentação e desenvolvimento de sistemas para o ramo clínico e, hoje em dia, meu trabalho se concentra na criação de sistemas full stacks de e-commerce e gerenciamentos logísticos.<p/>
   
